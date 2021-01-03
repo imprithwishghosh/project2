@@ -1,0 +1,97 @@
+.bg-img{
+	background-image:url(image/ext.jpg);
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	width:100%;
+	height:600px;
+}
+
+.text_about{
+	font-family:"Century Gothic Regular";
+	text-align:justify;
+}
+
+.text_soft{
+	font-family:"Century Gothic Regular";
+	text-align:justify;
+}
+
+.text_rese{
+	font-family:"Century Gothic Regular";
+	text-align:justify;
+}
+
+.title{
+	margin-top:100px;
+}
+
+.title1{
+	margin-top:100px;
+}
+
+.title2{
+	margin-top:80px;
+}
+
+.title3{
+	margin-top:80px;
+}
+
+
+.img_1{
+	background-image:url(image/3.png);
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	width:100%;
+	height:300px;
+}
+
+.img_2{
+	background-image:url(image/1.png);
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	width:100%;
+	height:400px;
+}
+
+.img_4{
+	background-image:url(image/6.png);
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	width:100%;
+	height:400px;
+}
+
+.img_3{
+	background-image:url(image/4.jpg);
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	width:100%;
+	height:400px;
+}
+
+
+
+#softwere{
+	padding:100px 0px 0xp 100px;
+}
+
+.list{
+	text-align:justify;
+}
+
+.list1{
+	margin-top:-530px;
+	float:right;
+	text-align:justify;
+}
+
+.text_detais{
+	font-size:25px;
+	margin-top:50px;
+}
+
+.title5{
+    float:left;
+	text-align:justify;
+}
